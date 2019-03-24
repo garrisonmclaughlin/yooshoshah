@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://soowooboh.latex2html.org/sitemap.xml
